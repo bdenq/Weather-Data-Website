@@ -1,0 +1,91 @@
+/* GENERAL */
+body {
+  background-color: rgb(221, 221, 221);
+  margin-bottom: 200px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: gray;
+}
+
+/* NAVBAR */
+#navbar-btn {
+  background-color: teal;
+  text-align: center;
+  padding: 5px;
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* CONTAINERS AND THEIR TEXT */
+.article-box {
+  margin-top: 40px;
+  padding: 25px;
+  background-color: white;
+}
+
+.article-comp {
+  margin-top: 40px;
+  padding: 25px;
+  background-color: white;
+}
+
+.article-header {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: teal;
+}
+
+.article-sub-header {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: teal;
+}
+
+.article-tiny-header {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: teal;
+  text-align: center;
+}
+
+/* IMAGES */
+#landing-img {
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.plot-img {
+  text-align: center;
+  width: 550px;
+  height: 350px;
+}
+
+.tiny-img {
+  width: 125px;
+  height: 125px;
+}
+
+.tiny-img-sel {
+  border: 3px solid teal;
+  width: 125px;
+  height: 125px;
+}
+
+.comp-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 250px;
+}
